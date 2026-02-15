@@ -1,4 +1,5 @@
 👋 Hi there, I'm Muhammad Ahmed!
+
 Cyber Security Student
 
 👨‍💻 About Me
@@ -18,8 +19,6 @@ Cyber Security Student
 
 Nmap • Wireshark • Burp Suite
 
-📊 GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" /> </p>
 📫 Contact
 
 🔗 LinkedIn: https://www.linkedin.com/in/muhammadxahmed/
