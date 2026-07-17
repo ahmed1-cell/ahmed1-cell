@@ -6,8 +6,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmed1-cell&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/ahmed1-cell?style=for-the-badge&color=00d9ff&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=muhammadxahmed&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/muhammadxahmed?style=for-the-badge&color=00d9ff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00d9ff?style=for-the-badge&labelColor=0d1117" />
 
 </div>
@@ -70,10 +70,10 @@ focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed1-cell&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmed1-cell&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadxahmed&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadxahmed&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=ahmed1-cell&theme=react&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&cache_seconds=1800" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=muhammadxahmed&theme=react&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&cache_seconds=1800" />
 
 </div>
 
